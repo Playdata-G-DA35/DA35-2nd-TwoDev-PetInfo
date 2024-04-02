@@ -29,7 +29,7 @@
 #### 크롤링하기 위해서 분석한 내용들 작성
   - 견종 랭킹
 #### 크롤링한 페이지 캡쳐
-![alt text](image_description-1.png) ![alt text](rank_name-1.png)
+![alt text](rank_name-1.png) ![alt text](image_description-1.png)
 #### selector등의 특징
   - 테이블로 작성되어 있는 셀렉터
   - 이미지 셀렉터
